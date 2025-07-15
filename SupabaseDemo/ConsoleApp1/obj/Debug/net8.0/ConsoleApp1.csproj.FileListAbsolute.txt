@@ -1,0 +1,17 @@
+D:\Sance\SupabaseDemo\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Sance\SupabaseDemo\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Sance\SupabaseDemo\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Sance\SupabaseDemo\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Sance\SupabaseDemo\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Sance\SupabaseDemo\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sance\SupabaseDemo\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Sance\SupabaseDemo\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Sance\SupabaseDemo\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Sance\SupabaseDemo\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Sance\SupabaseDemo\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Sance\SupabaseDemo\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Sance\SupabaseDemo\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Sance\SupabaseDemo\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+D:\Sance\SupabaseDemo\ConsoleApp1\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Sance\SupabaseDemo\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Sance\SupabaseDemo\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
